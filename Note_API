@@ -1,0 +1,51 @@
+==================================================================
+
+# HACKING API 
+
+Parts {
+	
+
+1 = Enumeration
+
+
+
+
+
+}
+
+# keyword
+
+Enumerat GraphQl
+
+Enumerate RESTFUL API
+
+API Version 
+
+Information Disclosure
+
+Authorization issues
+
+Business Logic
+
+IDOR
+
+XSS and CSRF 
+
+
+--------------------------------------------------------------------
+
+# Enumeration
+
+tool = fuzzdb
+
+https://github.com/fuzzdb-project/fuzzdb
+
+list = https://github.com/fuzzdb-project/fuzzdb/blob/master/discovery/common-methods/common-methods.txt
+
+
+
+==========================================
+
+Source 
+
+https://www.youtube.com/watch?v=yCUQBc2rY9Y&list=PLy4vDY2LdQlkvN_heuAPqk5Pr8AoXGVef&index=15
