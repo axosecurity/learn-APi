@@ -7,6 +7,7 @@ Parts {
 
 1 = Enumeration
 
+2 = taking Note 
 
 
 
@@ -31,6 +32,13 @@ IDOR
 
 XSS and CSRF 
 
+SQL injection api 
+
+Race conditions 
+
+Memory leaks 
+
+Hacker 101 GraphQL levels 
 
 --------------------------------------------------------------------
 
@@ -41,6 +49,13 @@ tool = fuzzdb
 https://github.com/fuzzdb-project/fuzzdb
 
 list = https://github.com/fuzzdb-project/fuzzdb/blob/master/discovery/common-methods/common-methods.txt
+
+-------------------------------------------------------------------
+
+# Taking note
+
+
+use anything but spreadsheet can be use 
 
 
 
